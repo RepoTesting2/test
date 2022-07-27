@@ -1,0 +1,2 @@
+for (auto it : adj[node])
+blblbalblablablba
